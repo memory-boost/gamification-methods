@@ -84,7 +84,7 @@ shop to buy, for example, amethysts boosters or charges!
 
 
 ## `🔬` `Research & Scientific papers`
-Before developing Memory Boost
+Before developing Memory Boost, I made some research about engagement on platforms: 
 
 * Frolov A. A., Matunin E. Y. - [🧾 SUPPORTING STUDENT ENGAGEMENT IN MODERN ONLINE EDUCATION SYSTEMS](Research/Supporting-Student-Engagement-in-Modern-Online-Education-Systems.pdf): _Russian language only yet, pages 223-224_;
 * Frolov A. A. - [🧾 AI-BASED CHEATING PREVENTION ON E-LEARNING PLATFORMS](Research/AI-Based-Cheating-Prevention-on-E-Learning-Platforms.pdf): _English language, pages 75-76_;
